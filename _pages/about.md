@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Software Engineer at <a href='#'>UCSF Health</a>. Building ML solutions to improve health outcomes.
 
 profile:
   align: right
