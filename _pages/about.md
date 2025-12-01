@@ -25,13 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-> I'll be attending NeuRIPS 2025 San Diego.
+> I'll be attending NeurIPS 2025 San Diego.
 
-I am a Software / Machine Learning Engineer building ML solutions to improve health outcomes. I am currently working on intelligent imaging systems building them step-by-step from research to outcomes.
+I am a Software / Machine Learning Engineer building ML solutions to improve health outcomes. I am currently working on intelligent imaging systems, building them step-by-step from research to outcomes.
 
-Prior to the no-fall Californian phase of my life I've worked at the University of Maryland Medical Center, NYU Langone Health, and collaborated with the brilliant people at Johns Hopkins Medical Institute. My work has ranged from discussion analysis of GLP-1 reception on social media, to generating MR scans from a different MR scan, with the latest being improving radiotherapy planning for glioblastoma patients.
+Prior to the no-fall Californian phase of my life I've worked at the University of Maryland Medical Center, NYU Langone Health, and collaborated with the brilliant people at Johns Hopkins Medical Institute. My work has ranged from discussion analysis of GLP-1 reception on social media, to generating fat suppressed MR scans from non-fat suppressed MR scans, with the latest being improving radiotherapy planning for glioblastoma patients.
 
 A Masters in Computer Science from NYU's Courant Institute of Mathematical Sciences and the post Bachelors academic pursuit in machine learning research laid the foundation of the ML x Health journey I've embarked upon.
 
 <br>
-Excited to meet fellow ML x Health enthusiasts at NeuRIPS San Diego this year. Reach out if you'll be around; let's meet and chat!
+Excited to meet fellow ML x Health enthusiasts at NeurIPS San Diego this year. Reach out if you'll be around; let's meet and chat!
