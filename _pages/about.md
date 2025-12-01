@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer at <a href='#'>UCSF Health</a>. Building ML solutions to improve health outcomes.
+subtitle: Software / Machine Learning Engineer at <a href='#'>UCSF Health</a>.
 
 profile:
   align: right
@@ -25,8 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+> I'll be attending NeurIPS 2025 San Diego.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Software / Machine Learning Engineer building ML solutions to improve health outcomes. I am currently working on intelligent imaging systems, building them step-by-step from research to outcomes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to the no-fall Californian phase of my life I've worked at the University of Maryland Medical Center, NYU Langone Health, and collaborated with the brilliant people at Johns Hopkins Medical Institute. My work has ranged from discussion analysis of GLP-1 reception on social media, to generating fat suppressed MR scans from non-fat suppressed MR scans, with the latest being improving radiotherapy planning for glioblastoma patients.
+
+A Masters in Computer Science from NYU's Courant Institute of Mathematical Sciences and the post Bachelors academic pursuit in machine learning research laid the foundation of the ML x Health journey I've embarked upon.
+
+<br>
+Excited to meet fellow ML x Health enthusiasts at NeurIPS San Diego this year. Reach out if you'll be around; let's meet and chat!
