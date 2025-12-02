@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-",
-          title: "",
+  },{id: "nav-publications",
+          title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/scholar.google.com/citations?user=L6W6ROEAAAAJ";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "cv",
