@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software / Machine Learning Engineer at <a href='#'>UCSF Health</a>.
+subtitle: Software / Machine Learning Engineer at UCSF Health.
 
 profile:
   align: right
