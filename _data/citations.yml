@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-17'
+  last_updated: '2026-01-09'
 papers:
   L6W6ROEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Detection in Progress-A Multimodal Segmentation-based Approach for Predicting Glioblastoma Recurrence
     year: '2025'
   L6W6ROEAAAAJ:UeHWp8X0CEIC:
-    citations: 16
+    citations: 18
     title: Trends in glucagon-like peptide-1 receptor agonist social media posts using artificial intelligence
     year: '2024'
   L6W6ROEAAAAJ:W7OEmFMy1HYC:
@@ -24,6 +24,10 @@ papers:
   L6W6ROEAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Defining Radiation Target Volumes with AI-Driven Predictions of Glioma Recurrence from MRSI, Diffusion MRI, and Transformers
+    year: '2025'
+  L6W6ROEAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: A Vision Transformer-Based Approach to Predict Glioblastoma Recurrence from Metabolic and Diffusion MRI for Personalizing Radiation Planning
     year: '2025'
   L6W6ROEAAAAJ:d1gkVwhDpl0C:
     citations: 0
