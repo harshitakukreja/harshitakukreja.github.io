@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-27'
 papers:
   L6W6ROEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -27,7 +27,7 @@ papers:
     year: '2025'
   L6W6ROEAAAAJ:YsMSGLbcyi4C:
     citations: 0
-    title: A Vision Transformer-Based Approach to Predict Glioblastoma Recurrence from Metabolic and Diffusion MRI for Personalizing Radiation Planning
+    title: IMG-120. A Vision Transformer-Based Approach to Predict Glioblastoma Recurrence from Metabolic and Diffusion MRI for Personalizing Radiation Planning
     year: '2025'
   L6W6ROEAAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Privacy protection of biometric templates using deep learning
     year: '2021'
   L6W6ROEAAAAJ:u5HHmVD_uO8C:
-    citations: 22
+    citations: 23
     title: A multimodal biometric system for secure user identification based on deep learning
     year: '2020'
   L6W6ROEAAAAJ:zYLM7Y9cAGgC:
