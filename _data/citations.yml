@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-27'
 papers:
   L6W6ROEAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Improving Multi-Center Generalizability of GAN-Based Fat Suppression using Federated Learning
     year: '2024'
   L6W6ROEAAAAJ:9yKSN-GCB0IC:
-    citations: 12
+    citations: 13
     title: An evaluation of denoising techniques and classification of biometric images based on deep learning
     year: '2023'
   L6W6ROEAAAAJ:Tyk-4Ss8FVUC:
