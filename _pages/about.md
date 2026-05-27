@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-> I'll be attending NeurIPS 2025 San Diego.
+> I'll be attending CVPR 2026 Denver.
 
 I am a Software / Machine Learning Engineer building ML solutions to improve health outcomes. I am currently working on intelligent imaging systems, building them step-by-step from research to outcomes.
 
@@ -34,4 +34,4 @@ Prior to the no-fall Californian phase of my life I've worked at the University 
 A Masters in Computer Science from NYU's Courant Institute of Mathematical Sciences and the post Bachelors academic pursuit in machine learning research laid the foundation of the ML x Health journey I've embarked upon.
 
 <br>
-Excited to meet fellow ML x Health enthusiasts at NeurIPS San Diego this year. Reach out if you'll be around; let's meet and chat!
+Excited to meet fellow ML x Health enthusiasts at CVPR Denver this year. Reach out if you'll be around; let's meet and chat!
