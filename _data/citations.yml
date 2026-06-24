@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-24'
 papers:
   L6W6ROEAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Improving Multi-Center Generalizability of GAN-Based Fat Suppression using Federated Learning
     year: '2024'
   L6W6ROEAAAAJ:9yKSN-GCB0IC:
-    citations: 13
+    citations: 15
     title: An evaluation of denoising techniques and classification of biometric images based on deep learning
     year: '2023'
   L6W6ROEAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: Detection in Progress-A Multimodal Segmentation-based Approach for Predicting Glioblastoma Recurrence
     year: '2025'
   L6W6ROEAAAAJ:UeHWp8X0CEIC:
-    citations: 22
+    citations: 23
     title: Trends in glucagon-like peptide-1 receptor agonist social media posts using artificial intelligence
     year: '2024'
   L6W6ROEAAAAJ:W7OEmFMy1HYC:
@@ -38,7 +38,7 @@ papers:
     title: Privacy protection of biometric templates using deep learning
     year: '2021'
   L6W6ROEAAAAJ:u5HHmVD_uO8C:
-    citations: 23
+    citations: 24
     title: A multimodal biometric system for secure user identification based on deep learning
     year: '2020'
   L6W6ROEAAAAJ:zYLM7Y9cAGgC:
